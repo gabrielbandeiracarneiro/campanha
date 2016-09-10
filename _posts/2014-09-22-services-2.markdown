@@ -1,12 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: saude.jpg
 category: Services
 title: SAÚDE
 description: |
 ---
   Investir na Saúde é pensar no presente no povo. Foram reformadas diversas unidades
 de saúde, entre elas diversas UBS e na Políclinica Augusto de Almeida. Além disso, foi realizada
-a construção da Políclínica do Bairro do Nordeste, aumentando o atendimento e as
+a construção da Políclínica, aumentando o atendimento e as
 especialidades que antes não eram oferecidas ao usuário. Foram construídas 18 Academias da
 Saúde em toda cidade.

@@ -1,0 +1,8 @@
+---
+layout: default
+img: arrastao.jpg
+category: Services
+title: Arrastão
+description: |
+---
+Nessa terça-feira, ás 22h30, haverá Arrastão do 10 !!!!!!!!

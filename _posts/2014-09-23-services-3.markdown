@@ -1,8 +1,13 @@
 ---
 layout: default
-img: phones.png
+img: apoiadores.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Nossos apoiadores
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+Um grupo de 22 nomes do cenário artístico Brasileiro,
+ entre atores, escritores, diretores de cinema e
+ intelectuais  "Nos solidarizamos 
+ com nosso colega Shaolin e com todos aqueles que lutam por
+ democracia e justiça em todo o Brasil".
