@@ -1,0 +1,12 @@
+---
+layout: default
+img: educacao.png
+category: Services
+title: EDUCAÇÃO
+description: |
+---
+
+Nossa Cidade não pode ficar a mercê de educação de baixa qualidade. O futuro pede
+preparo para os jovens. Por isso investimos na reforma e ampliação das escolas municipais e
+principalmente no transporte público escolar, que leva e traz diariamente jovens para as
+faculdades da capital sem custo nenhum, auxiliando na renda dessas famílias.

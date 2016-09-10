@@ -1,0 +1,16 @@
+---
+layout: default
+img: mobilidade.jpg
+category: Services
+title: MOBILIDADE URBANA
+description: |
+---
+A nossa gestão dedicou­se à melhoria do dia a dia do cidadão que transita por
+
+Guarabira. Foi realizada a maior obra de drenagem que o Centro da cidade já viu, o que
+
+melhorou o escoamento das águas da chuva e aliviou prejuízos constantes ao comércio. A
+
+municipalização do trânsito em Guarabira também irá trazer mais organização ao tráfego urbano
+
+e benefícios diversos.
